@@ -26,8 +26,7 @@ import java.awt.*;
  * @version year-2024
  */
 
-//comment 1
-
+//test push from main 2 github
 class Main
 {
   public static void main (String args[])
